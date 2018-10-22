@@ -1,0 +1,154 @@
+undefined
+undefined
+=======================================================================================================
+liri command: movie-this Cinderella
+=======================================================================================================
+Title: Cinderella
+Year movie was released: 2015
+IMDB movie rating (out of 10): 6.9
+Rotten Tomatoes rating (out of 100%): 83%
+Filmed in: USA, UK
+Language: English
+Movie plot: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this The Wizard of Oz
+=======================================================================================================
+Title: The Wizard of Oz
+Year movie was released: 1939
+IMDB movie rating (out of 10): 8.0
+Rotten Tomatoes rating (out of 100%): 98%
+Filmed in: USA
+Language: English
+Movie plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home to Kansas and help her friends as well.
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+undefined
+=======================================================================================================
+liri command: movie-this Cinderella
+=======================================================================================================
+Title: Cinderella
+Year movie was released: 2015
+IMDB movie rating (out of 10): 6.9
+Rotten Tomatoes rating (out of 100%): 83%
+Filmed in: USA, UK
+Language: English
+Movie plot: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+undefined
+=======================================================================================================
+liri command: movie-this Cinderella
+=======================================================================================================
+Title: Cinderella
+Year movie was released: 2015
+IMDB movie rating (out of 10): 6.9
+Rotten Tomatoes rating (out of 100%): 83%
+Filmed in: USA, UK
+Language: English
+Movie plot: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+undefined
+=======================================================================================================
+liri command: movie-this Cinderella
+=======================================================================================================
+Title: Cinderella
+Year movie was released: 2015
+IMDB movie rating (out of 10): 6.9
+Rotten Tomatoes rating (out of 100%): 83%
+Filmed in: USA, UK
+Language: English
+Movie plot: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+undefined
+=======================================================================================================
+liri command: movie-this Cinderella
+=======================================================================================================
+Title: Cinderella
+Year movie was released: 2015
+IMDB movie rating (out of 10): 6.9
+Rotten Tomatoes rating (out of 100%): 83%
+Filmed in: USA, UK
+Language: English
+Movie plot: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+undefined
+=======================================================================================================
+liri command: Find a Movie It
+=======================================================================================================
+Title: It
+Year movie was released: 2017
+IMDB movie rating (out of 10): 7.4
+Rotten Tomatoes rating (out of 100%): 85%
+Filmed in: USA, Canada
+Language: English
+Movie plot: In the summer of 1989, a group of bullied kids band together to destroy a shapeshifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+Actors: Jaeden Lieberher, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+undefined
+=======================================================================================================
+liri command: movie-this Cinderella
+=======================================================================================================
+Title: Cinderella
+Year movie was released: 2015
+IMDB movie rating (out of 10): 6.9
+Rotten Tomatoes rating (out of 100%): 83%
+Filmed in: USA, UK
+Language: English
+Movie plot: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+=======================================================================================================
+=======================================================================================================
+liri command: movie-this Cinderella
+=======================================================================================================
+Title: Cinderella
+Year movie was released: 2015
+IMDB movie rating (out of 10): 6.9
+Rotten Tomatoes rating (out of 100%): 83%
+Filmed in: USA, UK
+Language: English
+Movie plot: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+=======================================================================================================
+undefined
+=======================================================================================================
+liri command: movie-this A Walk to Remember
+=======================================================================================================
+Title: A Walk to Remember
+Year movie was released: 2002
+IMDB movie rating (out of 10): 7.4
+Rotten Tomatoes rating (out of 100%): 27%
+Filmed in: USA
+Language: English
+Movie plot: The story of two North Carolina teens, Landon Carter and Jamie Sullivan, who are thrown together after Landon gets into trouble and is made to do community service.
+Actors: Shane West, Mandy Moore, Peter Coyote, Daryl Hannah
+=======================================================================================================
+=======================================================================================================
+liri command: Find a Movie Pleasantville
+=======================================================================================================
+Title: Pleasantville
+Year movie was released: 1998
+IMDB movie rating (out of 10): 7.5
+Rotten Tomatoes rating (out of 100%): 85%
+Filmed in: USA
+Language: English
+Movie plot: Two 1990s teenage siblings find themselves in a 1950s sitcom, where their influence begins to profoundly change that complacent world.
+Actors: Tobey Maguire, Reese Witherspoon, William H. Macy, Joan Allen
+=======================================================================================================
+=======================================================================================================
+Find a Movie ---> Pleasantville
+=======================================================================================================
+Title: Pleasantville
+Year movie was released: 1998
+IMDB movie rating (out of 10): 7.5
+Rotten Tomatoes rating (out of 100%): 85%
+Filmed in: USA
+Language: English
+Movie plot: Two 1990s teenage siblings find themselves in a 1950s sitcom, where their influence begins to profoundly change that complacent world.
+Actors: Tobey Maguire, Reese Witherspoon, William H. Macy, Joan Allen
+=======================================================================================================
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
