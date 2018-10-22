@@ -152,3 +152,16 @@ undefined
 undefined
 undefined
 undefined
+=======================================================================================================
+movie-this ---> Pleasantville
+=======================================================================================================
+Title: Pleasantville
+Year movie was released: 1998
+IMDB movie rating (out of 10): 7.5
+Rotten Tomatoes rating (out of 100%): 85%
+Filmed in: USA
+Language: English
+Movie plot: Two 1990s teenage siblings find themselves in a 1950s sitcom, where their influence begins to profoundly change that complacent world.
+Actors: Tobey Maguire, Reese Witherspoon, William H. Macy, Joan Allen
+=======================================================================================================
+undefined
