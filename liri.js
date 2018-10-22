@@ -5,6 +5,7 @@ const keys = require("./keys.js");
 const Spotify = require("node-spotify-api");
 const request = require("request");
 const inquirer = require("inquirer")
+const moment = require("moment");
 const spotify = new Spotify(keys.spotify);
 
 // starts initial question for various commands
@@ -162,8 +163,33 @@ function getMovieInfo() {
       }
     });
   });
+}
 
-  function findConcert() {
-    
-  }
+function findConcert() {
+  inquirer.prompt({
+    type: "input",
+    name: "artist",
+    message: "Name an artist:"
+  }).then(answer => {
+
+    var queryUrl = "https://rest.bandsintown.com/artists/" + answer.artist + "/events?app_id=codingbootcamp";
+
+    request(queryUrl, (err, res, body) => {
+      if (!err && res.statusCode === 200) {
+        var bandObject = JSON.parse(body);
+        if (body === 'undefined') {
+          console.log("Please enter a different artist.")
+        }
+        else {
+          var time = bandObject[0].datetime;
+          time = moment(time).format("MM/DD/YYYY");
+          console.log(bandObject[0].lineup);
+          console.log("==============================");
+          console.log("Venue: " + bandObject[0].venue.name);
+          console.log("Location: " + bandObject[0].venue.country + ", " + bandObject[0].venue.city);
+          console.log("Date: " + time);
+        }
+      }
+    });
+  });
 }
