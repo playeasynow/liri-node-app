@@ -35,6 +35,3 @@ Ezequiel Calderon (current edition and ongoing maintenance) - <https://github.co
 
 # Get Involved!
 If you have any recommendations, let me know! Email: ezequiel.calderon.jr@gmail.com. If you'd like to take it in your own direction, go right ahead. 
-
-
-Link to demo: https://drive.google.com/file/d/1WPM1oqKuEzy-Dmt3MeUzkw_w9-UFJ5LK/view
