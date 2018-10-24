@@ -7,7 +7,6 @@ Orig. Deployment - October 21, 2018
 The challenge was to write a program with node.js --- and no browser! A first for many of us in class. I decided to use inquirer to take in my answer and then based on the answer, I would ask follow up questions.
 
 # User Guide
-![Image of Site](./assets/images/TrainScheduleScreenShot.png)
 <a href="https://drive.google.com/file/d/1WPM1oqKuEzy-Dmt3MeUzkw_w9-UFJ5LK/view
 " target="_blank"><img src="./liriScreenshot.png" 
 alt="liri app" width="240" height="180" border="10" /></a>
@@ -15,7 +14,7 @@ alt="liri app" width="240" height="180" border="10" /></a>
 Here's how it works:
 
 - Open up Terminal / your CLI
-- Make sure to download the appropriate npm loaded onto the JSON file
+- Make sure to download the appropriate npm loaded onto the package.json file
 - Type `node liri.js` and hit Enter
 - Follow the prompts
 - Have fun!
