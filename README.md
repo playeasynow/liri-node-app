@@ -9,7 +9,7 @@ The challenge was to write a program with node.js --- and no browser! A first fo
 # User Guide
 <a href="https://drive.google.com/file/d/1WPM1oqKuEzy-Dmt3MeUzkw_w9-UFJ5LK/view
 " target="_blank"><img src="./liriScreenshot.png" 
-alt="liri app" width="240" height="180" border="10" /></a>
+alt="liri app" width="300" height="180" border="10" /></a>
 
 Here's how it works:
 
