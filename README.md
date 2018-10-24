@@ -14,7 +14,7 @@ alt="liri app" width="600" height="180" border="10" /></a>
 Here's how it works:
 
 - Open up Terminal / your CLI
-- Make sure to download the appropriate npm loaded onto the package.json file
+- Make sure to download the appropriate node modules according to the package.json file
 - Type `node liri.js` and hit Enter
 - Follow the prompts
 - Have fun!
