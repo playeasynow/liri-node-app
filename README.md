@@ -1,6 +1,3 @@
-# liri-node-app
-Language Interpretation and Recognition Interface, oh my!
-
 # Liri | Node App 🤖
 UT Austin Coding Bootcamp | Unit 10 node.js \
 v1.0 \
